@@ -1,0 +1,3 @@
+Name: SIVA KALKI
+Skills: HTML, CSS, JS, Next.js, Django
+Email: sivakalki1@gmail.com
